@@ -1,0 +1,11 @@
+/* Program */
+
+.list-unstyled li {
+    line-height: 1.8;
+}
+.para-last {
+    line-height: 2;
+}
+.marquee-text {
+    font-size: 2rem;
+}
